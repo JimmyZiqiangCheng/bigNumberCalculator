@@ -1,3 +1,9 @@
+/*
+Karatsuba and big number calculation implementation in c++ 
+
+Author: Jimmy Ziqiang Cheng
+Date: 29, April, 2019
+*/
 #include <iostream>
 #include<string>
 #include<cstring>
